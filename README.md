@@ -20,3 +20,11 @@
 * SPRINT: Scalable Policy Pre-Training via Language Instruction Relabeling (ICRA 2024) - Jesse Zhang, Karl Pertsch, Jiahui Zhang, and Joseph J. Lim.
 
   * The proposed SPRINT(Scalable Pre-training via Relabeling Language INsTructions) is an approach that allows automatic expansion of a base set of pre-training tasks, resulting in a significanly broader skill repertoire. SPRINT leverages two core ideas: instruction relabeling via LLMs and cross-trajectory skill chaining through offline reinforcement learning.
+
+* [DROID: A Large-Scale In-the-Wild Robot Manipulation Dataset](DROID/) (2024) - Alexander Khazatsky et al. (Full author list in [the code README](DROID/README.md#citation).)
+
+  * DROID provides an in-the-wild robot manipulation dataset; this codebase supports policy training and evaluation using its demonstrations.
+
+* [N2M: Bridging Navigation and Manipulation by Learning Pose Preference from Rollout](N2M/) (2026) - Kaixin Chai, Hyunjun Lee, and Joseph J. Lim.
+
+  * N2M learns preferred initial poses for manipulation from rollout outcomes to connect navigation with manipulation.
